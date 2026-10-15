@@ -69,3 +69,5 @@ funmodel 系列的几个仓库编排在一个工作区里，不承载业务代�
 - 🏠 组织主页：<https://github.com/farfarfun>
 - 📦 PyPI：<https://pypi.org/user/niuliangtao/>
 - 📧 联系：farfarfun@qq.com
+
+本项目基于 [MIT](LICENSE) 协议开源。
