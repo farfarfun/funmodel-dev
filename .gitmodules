@@ -1,0 +1,12 @@
+[submodule "apps/funmodel"]
+	path = apps/funmodel
+	url = https://github.com/farfarfun/funmodel.git
+[submodule "apps/funmodel-dwpose"]
+	path = apps/funmodel-dwpose
+	url = https://github.com/farfarfun/funmodel-dwpose.git
+[submodule "apps/funmodel-mivolo"]
+	path = apps/funmodel-mivolo
+	url = https://github.com/farfarfun/funmodel-mivolo.git
+[submodule "apps/funmodel2"]
+	path = apps/funmodel2
+	url = https://github.com/farfarfun/funmodel2.git
